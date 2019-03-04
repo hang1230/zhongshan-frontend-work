@@ -1,5 +1,5 @@
 # 中山的前端面试经历
-## 觉得好的加个star，持续更新，欢迎大家提交补充，方便找工作，
+## 觉得好的加个star收藏一波，持续更新，方便大家找工作，
 ## 这些都是2016-2019的面试经历，仅供参考，遇到有坑的黑公司或者推荐的好公司请提交[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)，我会补充上去
 ## 已创建相关公司的[讨论区](https://github.com/a709691139/zhongshan-frontend-work/issues)，有需要的就在里面回复，看不懂打码的就去搜[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
 
