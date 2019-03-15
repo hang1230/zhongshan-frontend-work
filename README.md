@@ -31,7 +31,7 @@
 
 - [亿xiang网络科技有限公司](https://github.com/a709691139/zhongshan-frontend-work/issues/17)，利和 8k，初创公司，外资金融,1前端1后端1ui, 2018-10
 
-- [bei京班xiao二](https://github.com/a709691139/zhongshan-frontend-work/issues/18)，东区伊电园，五险一金双休。要求小程序，公司门口招牌没有，需自带电脑。写着高薪，然后offer给你低价（7k不到），毕业年限小于4年的别去了，会说你什么工作时间少，经历的项目不多（呵呵）。
+- [bei京班xiao二](https://github.com/a709691139/zhongshan-frontend-work/issues/18)，东区伊电园，创业公司, 2018-10，五险一金双休。要求小程序，公司门口招牌没有，需自带电脑。写着高薪，然后offer给你低价（7k不到），毕业年限小于4年的别去了，会说你什么工作时间少，经历的项目不多（呵呵）。
 
 - [中山奥fan](https://github.com/a709691139/zhongshan-frontend-work/issues/19)，位于古镇，12000，试用1个月，9：00~6：00，六天班，主要react native，物联网，进去要带新人
 
