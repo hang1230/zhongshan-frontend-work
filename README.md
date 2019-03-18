@@ -1,6 +1,7 @@
 # 中山的前端面试经历
-## 觉得好的加个star收藏一波，持续更新，方便大家找工作，
-## 这些都是2016-2019的面试经历，仅供参考，遇到有坑的黑公司或者推荐的好公司请提交[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)，我会补充上去
+## 觉得好的加个star收藏一波，持续更新，方便大家找工作
+## 这些都是2016-2019的面试经历，仅供参考（随着时间变化，公司的实际变动也会很大，所以请直接去面试了解详情，欢迎补充新资料）
+## 欢迎提交分享自己面试经历，请提交[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
 ## 已创建相关公司的[讨论区](https://github.com/a709691139/zhongshan-frontend-work/issues)，有需要的就在里面回复，看不懂打码的就去搜[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
 
 - [neng龙教育](https://github.com/a709691139/zhongshan-frontend-work/issues/4)，东区3-6k，很舒服的公司，实习生萌新推荐。
@@ -59,7 +60,7 @@
 
 - [中企育bei](https://github.com/a709691139/zhongshan-frontend-work/issues/31)：公司是挂着国企的名号来招人，面试会问一下ajax什么的，有什么作品。但是进去后老板会无形地给压力你，每到节假日的前一天，你必会收到工作任务。之前说好的奖金也会泡汤，用都是老技术 jquery / apicloud，单双休，还有管理超乱
 
-- [超yue动li网络](https://github.com/a709691139/zhongshan-frontend-work/issues/32)，单休（请假一天按双休的标准1/21扣工资），年12薪，西区天悦城, 办公 环境比较紧凑，人事很强势一直压工资,面试过程中还一直强调中山的这个三线城市工资水平怎么样怎么样,问自己在以前项目创造了什么价值,职业规划一大堆,听说每年能调薪的人只有3%,年功奖200一年,做ERP系统，前端以ng1.x项目为主。
+- [超yue动li网络](https://github.com/a709691139/zhongshan-frontend-work/issues/32)，单休（请假一天按双休的标准1/21扣工资），年12薪，西区天悦城, 办公环境比较紧凑，人事很强势一直压工资,面试过程中还一直强调中山的这个三线城市工资水平怎么样怎么样,问自己项目价值,职业规划,听说每年能调薪的人只有3%,年功奖200一年,做ERP系统，前端以ng1.x项目为主。
 
 - [中山联创工change](https://github.com/a709691139/zhongshan-frontend-work/issues/33)，5.5k 西区富华道 单休，boss上写着6-8k, 巨坑,有外包项目也有自己的项目,看起来有20-30人,面试前端的对vue几乎都不懂,几乎没问什么技术问,单休,据说有加班费,人事说你愿意的话通宵加班都可以.
 
