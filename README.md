@@ -3,6 +3,7 @@
 ## 这些都是2016-2019的面试经历，仅供参考（随着时间变化，公司的实际变动也会很大，所以请直接去面试了解详情，欢迎补充新资料）
 ## 欢迎提交分享自己面试经历，请提交[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
 ## 已创建相关公司的[讨论区](https://github.com/a709691139/zhongshan-frontend-work/issues)，有需要的就在里面回复，看不懂打码的就去搜[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
+## [面试流程](https://github.com/a709691139/zhongshan-frontend-work/blob/master/question.md)
 
 - [neng龙教育](https://github.com/a709691139/zhongshan-frontend-work/issues/4)，东区3-6k，很舒服的公司，实习生萌新推荐。
 
@@ -16,7 +17,7 @@
 
 - [中山市捷le自动门有限公司](https://github.com/a709691139/zhongshan-frontend-work/issues/9), 1w-1.5w，要求你会做蓝牙app，会app后端，全栈开发，基本上要你一个人搞定全部，对接他们的物联网家居之类的。
 
-- [点dui点公司，bao给我公司](https://github.com/a709691139/zhongshan-frontend-work/issues/10)，西区美银国际，实际上两个是同一个公司，外包，坑。。jq+easyui，老技术没意思，最多给你开7k
+- [点dui点公司，bao给我公司](https://github.com/a709691139/zhongshan-frontend-work/issues/10)，西区美银国际，实际上两个好像是同一个公司，都在同一层，外包，jq+easyui，老技术，最多给你开7k
 
 - [quan通子公司-cai云动力](https://github.com/a709691139/zhongshan-frontend-work/issues/11)， 7-12k， jq团队，做自己的互联网教育前端网页， 有笔试题，面试就是问一部分jq写法， 路由，页面性能和流量优化，团队管理，分配任务和时间，h5文件缓存和数据缓存(cooky,localstorge)，你遇到的棘手问题和解决方案，如何自我学习，.....之类的 问了接近两小时，采用旧技术，应该不招高级的。
 
@@ -62,7 +63,7 @@
 
 - [超yue动li网络](https://github.com/a709691139/zhongshan-frontend-work/issues/32)，单休（请假一天按双休的标准1/21扣工资），年12薪，西区天悦城, 办公环境比较紧凑，人事很强势一直压工资,面试过程中还一直强调中山的这个三线城市工资水平怎么样怎么样,问自己项目价值,职业规划,听说每年能调薪的人只有3%,年功奖200一年,做ERP系统，前端以ng1.x项目为主。
 
-- [中山联创工change](https://github.com/a709691139/zhongshan-frontend-work/issues/33)，5.5k 西区富华道 单休，boss上写着6-8k, 巨坑,有外包项目也有自己的项目,看起来有20-30人,面试前端的对vue几乎都不懂,几乎没问什么技术问,单休,据说有加班费,人事说你愿意的话通宵加班都可以.
+- [联创工change](https://github.com/a709691139/zhongshan-frontend-work/issues/33)，5.5k 西区富华道 单休，boss上写着6-8k, 巨坑,有外包项目也有自己的项目,看起来有20-30人,面试前端的对vue几乎都不懂,几乎没问什么技术问,单休,据说有加班费,人事说你愿意的话通宵加班都可以.
 
 - [诚min科技](https://github.com/a709691139/zhongshan-frontend-work/issues/34)，单休，在中山技术职业学院创新楼,办公室很小,团队四五个人左右,做小程序外包,套模板,大概一个月要做好一个项目,老板是中职毕业创业公司,工资是底薪+提成 底薪给多少看老板,提成的话看完成的时间有多长
 
@@ -74,5 +75,5 @@
 
 - [互dong科技](https://github.com/a709691139/zhongshan-frontend-work/issues/38), 西区小型外包公司，双休，前端+php，专门承接各种二次开发项目，应届生工资在3,4K，。工资基本只能等做完项目，收到尾款后才发，收不到就一直拖
 
-- [wu忧帮帮](https://github.com/a709691139/zhongshan-frontend-work/issues/39), 还在欠薪封锁状态，（2019-02）
+- [wu忧帮帮](https://github.com/a709691139/zhongshan-frontend-work/issues/39), 还在欠薪封锁状态，（2019-02），之后逐渐还钱重新开张
 
