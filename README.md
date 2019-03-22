@@ -15,7 +15,7 @@
 
 - [盛wang网络](https://github.com/a709691139/zhongshan-frontend-work/issues/8) ,中环广场，装修很华丽，但居然是两个公司合并的，上面挂的是另一个公司的名牌，面试房间又不开空调。。面试过程： 先有一个人来问了问你懂什么语言（面试前端问java），然后说我不会这个，换了个人， 然后还是来个不了解前端的人来问一些问题
 
-- [中山市捷le自动门有限公司](https://github.com/a709691139/zhongshan-frontend-work/issues/9), 1w-1.5w，要求你会做蓝牙app，会app后端，全栈开发，基本上要你一个人搞定全部，对接他们的物联网家居之类的。
+- [中山市捷le自动门](https://github.com/a709691139/zhongshan-frontend-work/issues/9), 1w-1.5w，要求你会做蓝牙app，会app后端，全栈开发，基本上要你一个人搞定全部，对接他们的物联网家居之类的。
 
 - [点dui点公司，bao给我公司](https://github.com/a709691139/zhongshan-frontend-work/issues/10)，西区美银国际，实际上两个好像是同一个公司，都在同一层，外包，jq+easyui，老技术，最多给你开7k
 
@@ -31,7 +31,7 @@
 
 - [聚yuan软件科技](https://github.com/a709691139/zhongshan-frontend-work/issues/16)，8-10k，小程序啊商城网页啊都要做，假日广场对面，5.5天7小时。有笔试题（无聊的基础问答，全写字，如web标准和w3c是什么，html和xhtml区别，jq怎么修改元素），技术提问（vue框架问题，路由钩子函数有哪些、双向同步怎么实现之类，还有页面性能优化，资源加载优化，js优化之类），有虚报价钱嫌疑，其他岗位工资都好低，技术主管也只是13-18k
 
-- [亿xiang网络科技有限公司](https://github.com/a709691139/zhongshan-frontend-work/issues/17)，利和 8k，初创公司，外资金融,1前端1后端1ui, 2018-10
+- [亿xiang网络](https://github.com/a709691139/zhongshan-frontend-work/issues/17)，利和 8k，初创公司，外资金融,1前端1后端1ui, 2018-10
 
 - [bei京班xiao二](https://github.com/a709691139/zhongshan-frontend-work/issues/18)，东区伊电园，创业公司, 2018-10，五险一金双休。要求小程序，公司门口招牌没有，需自带电脑。写着高薪，然后offer给你低价（7k不到），毕业年限小于4年的别去了，会说你什么工作时间少，经历的项目不多（呵呵）。
 
@@ -75,5 +75,5 @@
 
 - [互dong科技](https://github.com/a709691139/zhongshan-frontend-work/issues/38), 西区小型外包公司，双休，前端+php，专门承接各种二次开发项目，应届生工资在3,4K，。工资基本只能等做完项目，收到尾款后才发，收不到就一直拖
 
-- [wu忧帮帮](https://github.com/a709691139/zhongshan-frontend-work/issues/39), 还在欠薪封锁状态，（2019-02），之后逐渐还钱重新开张
+- [wu忧帮帮](https://github.com/a709691139/zhongshan-frontend-work/issues/39), 单休，还在欠薪封锁状态（2019-02），公司要加班，工资开的高，但是公司有钱也不发工资，前后换了两批人，一共欠薪大概有60个，现在第二批还在走劳动仲裁，钱还没发，请了一批新人，重新开张(2019-03)，
 
