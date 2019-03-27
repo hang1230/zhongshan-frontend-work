@@ -77,3 +77,5 @@
 
 - [wu忧帮帮](https://github.com/a709691139/zhongshan-frontend-work/issues/39), 单休，还在欠薪封锁状态（2019-02），公司要加班，工资开的高，但是公司有钱也不发工资，前后换了两批人，一共欠薪大概有60个，现在第二批还在走劳动仲裁，钱还没发，请了一批新人，重新开张(2019-03)，
 
+- [亦leng科技](https://github.com/a709691139/zhongshan-frontend-work/issues/38), 接小外包的公司最多给4K，听说还在欠薪状态。
+
